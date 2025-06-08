@@ -54,7 +54,7 @@ TelecomX/
 4. Ejecuta las celdas paso a paso para explorar los análisis y gráficos.
 
 ---
-🧠 Conclusión
+## 🧠 Conclusión
 Este proyecto proporciona una base sólida para entender el comportamiento de cancelación en servicios de telecomunicaciones. Los resultados pueden ser usados por el equipo de marketing o retención para diseñar estrategias de fidelización efectivas.
 
 
