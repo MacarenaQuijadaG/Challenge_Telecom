@@ -34,30 +34,17 @@ TelecomX/
 
 ---
 
-## 📈 Ejemplos de Gráficos e Insights
-
-### Tasa de cancelación según tipo de contrato
-![Contrato](images/churn_by_contract.png)
-
-Clientes con contratos mensuales presentan una mayor tasa de cancelación, mientras que aquellos con contratos a largo plazo son más leales.
-
-### Mapa de calor de correlaciones
-![Heatmap](images/heatmap_correlation.png)
-
-Se observan correlaciones entre la cancelación del servicio y variables como "meses como cliente", "tipo de contrato" y "uso de servicios adicionales".
-
----
 
 ## 🧪 Instrucciones para Ejecutar el Notebook
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/TelecomX.git
+   git clone https://github.com/MacarenaQuijadaG/Challenge_Telecom.git
    cd TelecomX
    
 2. Instala las dependencias:
-      ```bash
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
   
 3. Abre el Jupyter Notebook:
 
