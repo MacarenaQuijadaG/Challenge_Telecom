@@ -30,13 +30,15 @@ TelecomX/
 
 │ └── telecom_analysis.ipynb
 │
-├── images/ # Gráficos exportados desde el análisis
+├── 
+   images/ # Gráficos exportados desde el análisis
 
 │ ├── churn_by_contract.png
 
 │ └── heatmap_correlation.png
 │
-├── README.md # Documentación del proyecto
+├── 
+   README.md # Documentación del proyecto
 
 └── requirements.txt # Dependencias del entorno
 
