@@ -18,18 +18,26 @@ El análisis busca responder preguntas clave como:
 
 TelecomX/
 │
+
 ├── data/ # Datos en bruto y limpios
+
 │ ├── raw_data.csv
+
 │ └── clean_data.csv
 │
+
 ├── notebooks/ # Notebooks de análisis
+
 │ └── telecom_analysis.ipynb
 │
 ├── images/ # Gráficos exportados desde el análisis
+
 │ ├── churn_by_contract.png
+
 │ └── heatmap_correlation.png
 │
 ├── README.md # Documentación del proyecto
+
 └── requirements.txt # Dependencias del entorno
 
 ---
