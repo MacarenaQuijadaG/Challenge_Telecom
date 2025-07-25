@@ -1,4 +1,4 @@
-# 📊 Proyecto Telecom X
+# 📊 Proyecto Telecom X Parte 1
 
 Este proyecto tiene como objetivo analizar las cancelaciones de servicios en una empresa de telecomunicaciones, identificando patrones relevantes y posibles factores que influyen en la decisión de los clientes de abandonar el servicio.
 
