@@ -5,7 +5,7 @@ Este proyecto tiene como objetivo analizar las cancelaciones de servicios en una
 
 ---
 
-## 🎯 Propósito del Análisis
+## 🎯 Propósito del Análisis.  
 
 El análisis busca responder preguntas clave como:
 
