@@ -27,7 +27,7 @@ TelecomX/
 │ └── clean_data.csv
 │
 
-├── notebooks/ # Notebooks de análisis
+├── notebooks/ # Notebooks de análisis. 
 
 │ └── telecom_analysis.ipynb
 │
